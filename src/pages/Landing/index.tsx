@@ -13,25 +13,27 @@ function Landing() {
         <div id="page-landing">
             <div id="page-landing-content" className="container">
                 <div className="logo-container">
-                   <img src={logoImg} alt="Logo Proffy" /> 
-                   <h2>sua plataforma de estudos online.</h2>
+                    <img src={logoImg} alt="Logo Proffy" />
+                    <h2>Sua plataforma de estudos online.</h2>
                 </div>
-                <img 
-                   src={landingImg} 
-                   alt="Imagem principal da landing page" 
-                   className="hero-image" 
-                />
+
+                <img src={landingImg} alt="Imagem Principal" className="hero-image" />
+
                 <div className="buttons-container">
                     <a href="/" className="study">
-                        <img src={studyIcon} alt="Estudar" />Estudar
+                    <img src={studyIcon} alt="Estudar" /> Estudar
+                        
                     </a>
+
                     <a href="/" className="give-classes">
-                        <img src={giveClassesIcon} alt="Dar Aulas" />Dar Aulas
+                        <img src={giveClassesIcon} alt="Dar aulas" /> Dar Aulas
+                        
                     </a>
                 </div>
-                
+
                 <span className="total-connections">
-                    Total de 200 conexões já realizadas <img src={purpleHeart} alt="Coração roxo"></img>
+                    Total de 200 conexões realizadas.
+                    <img src={purpleHeart} alt="Coração roxo" />
                 </span>
             </div>
         </div>
