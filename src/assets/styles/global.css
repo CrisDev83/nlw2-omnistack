@@ -52,6 +52,7 @@ input,
 button,
 textarea {
     font: 500 1.6rem var(--text-boby-input-botton);
+    color: var( --color-text-base);
 }
 
 .container {
