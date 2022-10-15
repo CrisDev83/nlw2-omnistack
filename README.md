@@ -51,7 +51,7 @@ Criar um projeto React com Yarn; Limpar extrutura do projeto; Gtignore; Package.
 # Como executar o projeto
 
 ## Front end web
-Pré-requisitos mínimos: node v12.13.0 / yarn v6.12.0
+Pré-requisitos mínimos: node v12.18.3 | nmp v6.14.16 | yarn v1.22.4
 
 ```zsh
 # clonar repositório
@@ -61,10 +61,10 @@ git clone https://github.com/CrisDev83/projetoProffy.git
 cd projetoProffy
 
 # instalar dependências
-yarn install
+yarn install | npm install
 
 # executar o projeto
-yarn start
+yarn start | npm start
 ```
 
 # Autor
