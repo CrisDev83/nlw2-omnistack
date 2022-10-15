@@ -11,10 +11,11 @@ Projeto desenvolvido no treinamento NLW#2 da Rocketseat. É Uma plataforma de es
 Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router e outros!
 
 ## Layout Desktop
-![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/proffy.png)                                
-
-## Layout Mobile
-![Mobile 1](https://github.com/CrisDev83/assets-projects/blob/master/proffymobile.png)
+<div align="center"> 
+    <img src="https://github.com/CrisDev83/assets-projects/blob/master/proffy.png" />
+    <img src="https://github.com/CrisDev83/assets-projects/blob/master/proffylist.png" width="500"/>
+    <img src="https://github.com/CrisDev83/assets-projects/blob/master/proffycadastro.png" width="500"/>
+</div>
 
 ## O Que aprendi?
 
