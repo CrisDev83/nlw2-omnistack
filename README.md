@@ -18,7 +18,7 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 
 ## O Que aprendi?
 
-Criar um projeto React com Yarn; Limpar extrutura do projeto; Gtignore; Package.json; Client Side; index.html / div root; React DOM; JSX; Componentes; Propriedades; Estado; CSS global; :root; variáveis CSS; Google Fonts / Importando fonts; Unidades de medidas (rem, em, %, xw); Media Query; Aumentando o produtividade com o Emmet; Acessibilidade; Display flex; Navegação entre páginas; BrowserRouter/ Route; Forms.
+Criar um projeto React com Yarn; Limpar extrutura do projeto; Gtignore; Package.json; Client Side; index.html / div root; React DOM; JSX; Componentes; Propriedades; Estado; Interface; CSS global; :root; variáveis CSS; Google Fonts / Importando fonts; Unidades de medidas (rem, em, %, xw); Media Query; Aumentando o produtividade com o Emmet; Acessibilidade; Display flex; Navegação entre páginas; BrowserRouter/ Route; Forms.
  
 
 # Tecnologias utilizadas
@@ -51,20 +51,20 @@ Criar um projeto React com Yarn; Limpar extrutura do projeto; Gtignore; Package.
 # Como executar o projeto
 
 ## Front end web
-Pré-requisitos mínimos: node v12.13.0 / npm v6.12.0
+Pré-requisitos mínimos: node v12.13.0 / yarn v6.12.0
 
 ```zsh
 # clonar repositório
-git clone https://github.com/CrisDev83/projetoInfofilmes.git
+git clone https://github.com/CrisDev83/projetoProffy.git
 
-# entrar na pasta do projeto front end web
-cd front-web
+# entrar na pasta do projeto projetoProffy
+cd projetoProffy
 
 # instalar dependências
-npm install
+yarn install
 
 # executar o projeto
-npm run dev 
+yarn start
 ```
 
 # Autor
