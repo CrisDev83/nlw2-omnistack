@@ -10,26 +10,24 @@ Projeto desenvolvido no treinamento NLW#2 da Rocketseat. É Uma plataforma de es
 
 Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router e outros!
 
-
-## O Que aprendi
-
-- Componentização
-- Consumir uma API externa
-- Requisição com fetch
-- useState
-- useEffect
-- useParams
-
-
 ## Layout Desktop
-![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/proffy.png)
+![Web 1](https://github.com/CrisDev83/assets-projects/blob/master/proffy.png)                                
 
 ## Layout Mobile
 ![Mobile 1](https://github.com/CrisDev83/assets-projects/blob/master/proffymobile.png)
 
+## O Que aprendi?
+
+Criar um projeto React com Yarn; Limpar extrutura do projeto; Gtignore; Package.json; Client Side; index.html / div root; React DOM; JSX; Componentes; Propriedades; Estado; CSS global; :root; variáveis CSS; Google Fonts / Importando fonts; Unidades de medidas (rem, em, %, xw); Media Query; Aumentando o produtividade com o Emmet; Acessibilidade; Display flex; Navegação entre páginas; BrowserRouter/ Route; Forms.
+ 
+
 # Tecnologias utilizadas
 ## Ferramentas 
 - VSCODE - Visual Studio Code
+- Notion
+- Figma
+- NodeJS
+- Yarn
 - Git
 - GitHub
 
@@ -37,17 +35,15 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 - HTML \ CSS \ JS
 - JSX
 - ReactJS
-- Vite
+- Typescript
+
 
 ## Dependencies
 - react
-- react-icons
 - react-dom
+- react-scripts
+- typescript
 - react-router-dom
-- fetch
-
-## Back end
-- API TMDB (The Movie Database.Org)
 
 ## Implantação em produção
 - Netlify
