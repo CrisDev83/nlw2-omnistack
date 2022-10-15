@@ -18,7 +18,9 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 </div>
 
 ## Layout Responsivo
-[mobile](https://github.com/CrisDev83/assets-projects/blob/master/proffymobile.png)
+![mobile1](https://github.com/CrisDev83/assets-projects/blob/master/proffymobile.png)
+![mobile2](https://github.com/CrisDev83/assets-projects/blob/master/pm2.png)
+![mobile3](https://github.com/CrisDev83/assets-projects/blob/master/pm3.png)
 
 ## O Que aprendi?
 
