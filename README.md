@@ -24,7 +24,7 @@ Tudo isso usando os principais conceitos do ReactJS - Components; Hooks; Router 
 
 ## O Que aprendi?
 
-Criar um projeto React com Yarn; Limpar extrutura do projeto; Gtignore; Package.json; Client Side; index.html / div root; React DOM; JSX; Componentes; Propriedades; Estado; Interface; CSS global; :root; variáveis CSS; Google Fonts / Importando fonts; Unidades de medidas (rem, em, %, xw); Media Query; Aumentando o produtividade com o Emmet; Acessibilidade; Display flex; Navegação entre páginas; BrowserRouter/ Route; Forms.
+Criar um projeto React com Yarn; Limpar extrutura do projeto; gitignore; package.json; Client Side; index.html / div root; React DOM; JSX; Componentes; Propriedades; Estado; Interface; CSS global; :root; variáveis CSS; Google Fonts / Importando fonts; Unidades de medidas (rem, em, %, xw); Media Query; Aumentando o produtividade com o Emmet; Acessibilidade; Display flex; Navegação entre páginas; BrowserRouter/ Route; Forms.
  
 
 # Tecnologias utilizadas
